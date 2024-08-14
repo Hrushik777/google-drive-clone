@@ -1,0 +1,14 @@
+.sidebar{
+    width: 15%;
+    height: 10vh;
+    margin-right: 5px;
+    transition: transform 0.3s ease;
+
+}
+hr{
+    background-color: rgb(197, 197, 197);
+}
+.sidebar:hover{
+    background-color: rgba(197,197,197);
+    transform: translateY(-5px);
+}
